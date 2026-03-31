@@ -1,6 +1,6 @@
 # Dashboard de Vendas Xbox - Desafio DIO
 
-![Dashboard Xbox](./caminho-da-imagem.png)
+![Dashboard Xbox](./Dashboard_Xbox.png)
 
 ## 📖 Sobre o Projeto
 Este projeto foi desenvolvido para o desafio da **DIO (Digital Innovation One)**, com o objetivo de aplicar técnicas de análise de dados e visualização utilizando o Microsoft Excel. O foco principal é transformar dados brutos de assinaturas (Core, Standard e Ultimate) em informações estratégicas para a tomada de decisão.
